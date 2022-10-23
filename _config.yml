@@ -6,8 +6,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Yu Geun Young
-title: student, Hallym University
+name: 유근영
+title: 학생, 한림대학교
 email: skm99086@naver.com
 # email_title: Email (Email title override)
 phone: 010-9211-9747
@@ -52,7 +52,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: 20220811181854_00027.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  한림대학교에 다니고 있는 스마트IoT 3학년 학생입니다.\n
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
