@@ -64,10 +64,10 @@ content:
       - layout: left
         border: weak
         title: JAVA
-      - layout: center
+      - layout: left
         border: weak
         title: Python
-      - layout: right
+      - layout: left
         border: weak
         title: C/C++
 
