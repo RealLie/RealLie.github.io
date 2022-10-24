@@ -64,6 +64,9 @@ content:
       - layout: left
         border: weak
         title: JAVA
+      - layout: left
+        border: weak
+        title: JAVA
   - title: Experience
     layout: list
     content:
