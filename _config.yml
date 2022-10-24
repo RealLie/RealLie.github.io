@@ -54,12 +54,6 @@ about_profile_image: 20220811181854_00027.jpg
 about_content: | # this will include new lines to allow paragraphs
   한림대학교에 다니고 있는 스마트IoT 3학년 학생입니다.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
