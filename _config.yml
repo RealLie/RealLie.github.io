@@ -64,9 +64,6 @@ content:
       - layout: left
         border: weak
         title: JAVA
-    content:
-      - layout: left
-        border: weak
         title: Python
   - title: Experience
     layout: list
