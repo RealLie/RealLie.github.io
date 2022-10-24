@@ -66,7 +66,10 @@ content:
         title: JAVA
       - layout: left
         border: weak
-        title: JAVA
+        title: Python
+      - layout: left
+        border: weak
+        title: C/C++
   - title: Experience
     layout: list
     content:
