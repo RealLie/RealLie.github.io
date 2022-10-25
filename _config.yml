@@ -71,29 +71,29 @@ content:
         border: weak
         title: C/C++
 
-  - title: 자격증
+  - title: 공부중인 자격증
     layout: list
     content:
-      - layout: top-left
+      - layout: left
         title: 컴퓨터활용능력 1급
         #sub_title: Qualifications (eg. BA Performing Arts)
-        caption: 전반적인 업무에 필요한 역량이 필요할 것 같아 공부했음
+        caption: 전반적인 업무에 필요할 것 같아 공부 중이다.
         #quote: >
         #  Short institution or course description (optional)
         #description: | # this will include new lines to allow paragraphs
         #  Description of qualification
-      - layout: top-left
+      - layout: left
         title: SQLD
         #sub_title: Qualifications (eg. BA Performing Arts)
-        caption: 데이터베이스를 이용한 자격증 훗날 백엔드 개발에 도움이 될 것 같아 공부 중
+        caption: SQL 데이터베이스를 이용한 자격증이다 훗날 필요할 것이라고 생각해서 공부 중이다.
         #quote: >
         #  Short institution or course description (optional)
         #description: | # this will include new lines to allow paragraphs
         #  Description of qualification
-      - layout: top-left
+      - layout: left
         title: 정보처리기사
         #sub_title: Qualifications (eg. BA Performing Arts)
-        caption: 개발자로써 자격증이 필요할 것 같아 공부 중
+        caption: 소프트웨어 개발 관련 자격증으로 필요하다고 생각하여 공부 중이다.
         #quote: >
         #  Short institution or course description (optional)
         #description: | # this will include new lines to allow paragraphs
@@ -101,9 +101,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      아직 뭔가 해낸것이 없지만 남은 대학생활 동안 할 수 있는 것은 최대한 해보고 싶습니다.
 
 # Footer
 footer_show_references: true
