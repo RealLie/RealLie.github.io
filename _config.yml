@@ -74,7 +74,7 @@ content:
   - title: 공부중인 자격증
     layout: list
     content:
-      - layout: left
+      - layout: 
         title: 컴퓨터활용능력 1급
         #sub_title: Qualifications (eg. BA Performing Arts)
         caption: 전반적인 업무에 필요할 것 같아 공부 중이다.
