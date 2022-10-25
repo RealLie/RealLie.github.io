@@ -71,17 +71,33 @@ content:
         border: weak
         title: C/C++
 
-  - title: Education
+  - title: 자격증
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+      - layout: top-left
+        title: 컴퓨터활용능력 1급
+        #sub_title: Qualifications (eg. BA Performing Arts)
+        caption: 전반적인 업무에 필요한 역량이 필요할 것 같아 공부했음
+        #quote: >
+        #  Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification
+      - layout: top-left
+        title: SQLD
+        #sub_title: Qualifications (eg. BA Performing Arts)
+        caption: 데이터베이스를 이용한 자격증 훗날 백엔드 개발에 도움이 될 것 같아 공부 중
+        #quote: >
+        #  Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification
+      - layout: top-left
+        title: 정보처리기사
+        #sub_title: Qualifications (eg. BA Performing Arts)
+        caption: 개발자로써 자격증이 필요할 것 같아 공부 중
+        #quote: >
+        #  Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
